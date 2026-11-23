@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
+src/backend/env_file
+src/frontend/README.md
